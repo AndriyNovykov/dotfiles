@@ -1,2 +1,3 @@
 # dotfiles
-My Dot Files
+
+These are the dotfiles I use on my MacBook. 
