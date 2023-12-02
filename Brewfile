@@ -11,6 +11,8 @@ brew "httpie"
 brew "mas"
 # Fast, highly customisable system info script
 brew "neofetch"
+# Painless compression and decompression for your terminal
+brew "ouch"
 # Web browser
 cask "google-chrome"
 # Open-source code editor
