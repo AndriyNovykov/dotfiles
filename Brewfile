@@ -11,10 +11,18 @@ brew "httpie"
 brew "mas"
 # Fast, highly customisable system info script
 brew "neofetch"
+# Create, run, and share large language models (LLMs)
+brew "ollama"
 # Painless compression and decompression for your terminal
 brew "ouch"
+# Tool to flash OS images to SD cards & USB drives
+cask "balenaetcher"
+# Bitcoin client and wallet
+cask "bitcoin-core"
 # Web browser
 cask "google-chrome"
 # Open-source code editor
 cask "visual-studio-code"
+# Lossless audio decoder
+cask "xld"
 mas "Xcode", id: 497799835
