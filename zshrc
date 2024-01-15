@@ -15,6 +15,13 @@ alias exa='exa -laFh --git'
 alias bbd='brew bundle dump --force --describe'
 alias trail='<<<${(F)path}'
 
+## Git Aliases
+alias gs='git status -s'
+alias ga='git add .'
+alias gc='git commit -m'
+
+
+
 # Customize Prompt(s)
 PROMPT='
 %1~ %L %# '
