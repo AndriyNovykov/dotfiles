@@ -15,6 +15,8 @@ brew "neofetch"
 brew "ollama"
 # Painless compression and decompression for your terminal
 brew "ouch"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Tool to flash OS images to SD cards & USB drives
 cask "balenaetcher"
 # Bitcoin client and wallet
