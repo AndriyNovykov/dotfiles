@@ -9,6 +9,8 @@ brew "git"
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Node version management
+brew "n"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Create, run, and share large language models (LLMs)
