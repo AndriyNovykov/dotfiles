@@ -12,3 +12,7 @@ if exists node; then
    n latest 
 fi
 
+# Install Global NPM Packages
+
+echo "Global NPM Packages Installed:"
+npm list --global --depth=0
