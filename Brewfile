@@ -9,6 +9,8 @@ brew "git"
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Node version management
+brew "n"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Create, run, and share large language models (LLMs)
@@ -23,8 +25,11 @@ cask "balenaetcher"
 cask "bitcoin-core"
 # Web browser
 cask "google-chrome"
+# Orchestrates virtual Ubuntu instances
+cask "multipass"
 # Open-source code editor
 cask "visual-studio-code"
 # Lossless audio decoder
 cask "xld"
+mas "Slack", id: 803453959
 mas "Xcode", id: 497799835
