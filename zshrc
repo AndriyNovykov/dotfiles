@@ -12,8 +12,7 @@ export PREFIX="$N_PREFIX"
 
 
 # Create Aliases
-alias ls='exa -laFh --git'
-alias exa='exa -laFh --git'
+alias ls='ls -laFh'
 alias bbd='brew bundle dump --force --describe'
 alias trail='<<<${(F)path}'
 
