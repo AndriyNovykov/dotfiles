@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
+tap "homebrew/services"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
 # Distributed revision control system
@@ -21,8 +22,6 @@ brew "zsh"
 cask "balenaetcher"
 # Bitcoin client and wallet
 cask "bitcoin-core"
-# Web browser
-cask "google-chrome"
 # Orchestrates virtual Ubuntu instances
 cask "multipass"
 # Open-source code editor
