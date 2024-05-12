@@ -20,8 +20,6 @@ brew "ouch"
 brew "zsh"
 # Tool to flash OS images to SD cards & USB drives
 cask "balenaetcher"
-# Bitcoin client and wallet
-cask "bitcoin-core"
 # Orchestrates virtual Ubuntu instances
 cask "multipass"
 # Open-source code editor
